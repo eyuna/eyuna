@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&height=300&section=header&text=Lee%20Yuna&desc=welcome%20to%20my%20github&fontSize=70&animation=fadeIn&fontAlignY=40&descAlignY=53">
 
-<br><br>
+<br>
 
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 <br><br><br>
