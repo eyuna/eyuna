@@ -12,7 +12,7 @@
 </p>
 
 <br><br><br>
-<p align="center"> 🦊 used as least once <p>
+<p align="center"> 🦊 used at least once <p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <br> <img src="https://img.shields.io/badge/css-F7DF1E?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Vue.Js-4FC08D?style=flat-square&logo=Vue.Js&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> 
