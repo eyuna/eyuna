@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&text=Lee%20Yuna&desc=Java%20backend%20developer&descAlignY=51&descAlign=62)
 
-<br><br>
+<br>
 
 <h3 align="center"> :hatching_chick: TECH STACK :hatched_chick: </h3>
 <br><br><br>
