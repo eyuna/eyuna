@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="center"> :hatching_chick: TECH STACK :hatched_chick: </h3>
+<h3 align="center">TECH STACK</h3>
 <br><br><br>
 
 <h4 align="center"> :pushpin: BackEnd </h4>
