@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&text=Lee%20Yuna&desc=Java%20backend%20developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&text=Lee%20Yuna&desc=Backend%20Developer&descAlignY=51&descAlign=62)
 
 <br>
 
-<h3 align="center">TECH STACK</h3>
+<h3 align="center"> :books: TECH STACK :books: </h3>
 <br><br><br>
 
 <h4 align="center"> :pushpin: BackEnd </h4>
