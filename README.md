@@ -2,8 +2,8 @@
 
 <br>
 
-<h3 align="center"> :books: TECH STACK :books: </h3>
-<br><br><br>
+<h2 align="center"> :books: TECH STACK :books: </h2>
+<br><br>
 
 <h4 align="center"> :pushpin: BackEnd </h4>
 <p align="center">
