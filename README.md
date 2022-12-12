@@ -3,7 +3,7 @@
 <br>
 
 
-<h4 align="center"> :pushpin: BackEnd </h4>
+<h3 align="center"> :pushpin: BackEnd </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -13,7 +13,7 @@
 
 <br>
 
-<h4 align="center"> :pushpin: FrontEnd </h4>
+<h3 align="center"> :pushpin: FrontEnd </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-dd4b25?style=flat-square&logo=html5&logoColor=white"/>
@@ -22,7 +22,7 @@
 
 <br>
 
-<h4 align="center"> :pushpin: DataBase </h4>
+<h3 align="center"> :pushpin: DataBase </h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
