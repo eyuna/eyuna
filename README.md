@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&text=Lee%20Yuna&desc=Backend%20Developer&descAlignY=51&descAlign=62)
 
 <br>
-
+<!-- 
 
 <h3 align="center"> :pushpin: BackEnd </h3>
 <p align="center">
@@ -31,8 +31,8 @@
 
 <br><br><br><br>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=eyuna&count_private=true&show_icons=true&theme=graywhite&hide=stars,issues,contribs">
 </p>
-
-<br><br><br> -->
+ -->
+<br><br><br> 
