@@ -3,7 +3,7 @@
 <br>
 
 
-<h3 align="center"> :pushpin: BackEnd </h3>
+<h3 align="center"> :wrench: BackEnd </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
@@ -13,7 +13,7 @@
 
 <br>
 
-<h3 align="center"> :pushpin: FrontEnd </h3>
+<h3 align="center"> 🛠 FrontEnd </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -21,7 +21,7 @@
 
 <br>
 
-<h3 align="center"> :pushpin: DataBases </h3>
+<h3 align="center"> 🔨 DataBases </h3>
 <p align="center">
   
  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
